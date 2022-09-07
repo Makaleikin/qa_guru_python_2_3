@@ -7,4 +7,4 @@ def test_1():
 
 
 def test_2():
-    asser 4 >= 2
+    assert 4 >= 2
