@@ -16,3 +16,7 @@ def test_3():
 
 def test_4():
     assert 4 > 2
+
+
+def test_another():
+    10 < 15
