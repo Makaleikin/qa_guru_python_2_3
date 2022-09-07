@@ -12,3 +12,7 @@ def test_2():
 
 def test_3():
     assert 4 == 4
+
+
+def test_4():
+    assert 4 > 2
